@@ -1,0 +1,9 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore model and data files
+*.pkl
+*.h5
+*.pt
+project.py
+
